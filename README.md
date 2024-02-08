@@ -4,7 +4,9 @@ Uploading parts based on youtube videos.
 
 Each part has new code (overrwrites last part!)
 
-If upgrading, delete old code. Do not install all parts only most current (highest part number) or the part you want to use.
+If upgrading, delete old code. 
+
+Do not install all parts only most current (highest part number) or the part you want to use.
 
 To install, copy files to the "assets" folder of a new unity project.
 
